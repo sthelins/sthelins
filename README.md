@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sthelins
-- 👀 I’m interested in  programação
+- 👋 Hi, my name is Sthefany Lins de Albuquerque
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning  java
 - 📫 How to reach me :  https://www.linkedin.com/in/sthefanyalbuquerque/
 
